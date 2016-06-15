@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="max_trip Table" max_length="40" name="x_snc_max_trip_table" type="collection"/>
+</database>
