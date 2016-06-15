@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>massimo.rivetti@snc</sys_created_by>
         <sys_created_on>2016-06-15 00:14:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b452ea454f04220045d40fa21310c7c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_max_trip_table.x_snc_max_trip.user</sys_name>

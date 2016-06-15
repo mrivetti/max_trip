@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>massimo.rivetti@snc</sys_created_by>
         <sys_created_on>2016-06-15 00:14:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8552ea454f04220045d40fa21310c7cb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>MAX</sys_name>
